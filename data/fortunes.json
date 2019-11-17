@@ -15,6 +15,12 @@
     "id": 3,
     "message": "One person will give you a great advice",
     "lucky_number": 30,
-    "spirit_animal": "Dog"
+    "spirit_animal": "Bear"
+  },
+  {
+    "id": 4,
+    "message": "Get ready because your star will shine very soon",
+    "lucky_number": 10,
+    "spirit_animal": "Fish"
   }
 ]
